@@ -1,0 +1,33 @@
+
+
+
+
+# POST http://localhost:3001/users/login
+# Content-Type: application/application/json
+
+# {
+#    "email": "test23",
+#    "password": "test23"
+# }
+
+
+GET   http://localhost:3001/users/profile/ 
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzMyNDQzMDV9.BHCnwPotP-6y2b3PTRvOGYq2gG3Ppxms-6fA4c25wEY
+
+
+{
+ 
+  "email": test3
+
+} 
+
+# POST http://localhost:3001/users/signup
+# Content-Type: application/application/json
+
+# {
+#       "fistName": testVSCODE1,
+#       "lastName": testVSCODE1,
+#     "email": testVSCODE1,
+#     "password": testVSCODE1,
+
+# }
