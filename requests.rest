@@ -6,28 +6,25 @@
 # Content-Type: application/application/json
 
 # {
-#    "email": "test23",
-#    "password": "test23"
+#    email: test23,
+#    password: test23
 # }
 
 
-GET   http://localhost:3001/users/profile/ 
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzMyNDQzMDV9.BHCnwPotP-6y2b3PTRvOGYq2gG3Ppxms-6fA4c25wEY
+# GET   http://localhost:3001/users/profile/ 
+# cookie: 
 
-
-{
- 
-  "email": test3
-
-} 
-
+# {
+# email: test:1
+# password: test1
+# #  }
 # POST http://localhost:3001/users/signup
 # Content-Type: application/application/json
 
 # {
-#       "fistName": testVSCODE1,
-#       "lastName": testVSCODE1,
-#     "email": testVSCODE1,
-#     "password": testVSCODE1,
+#     "fistName": testVSCODE2,
+#     "lastName": testVSCODE2,
+#     "email": testVSCODE2,
+#     "password": testVSCODE2,
 
 # }
