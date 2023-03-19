@@ -1,0 +1,10 @@
+body{
+  background-color: orange;
+}
+
+.mainPage {
+  margin: auto;
+  width: 50%;
+  border: 1px solid black;
+  padding: 0.5px;
+}
